@@ -103,4 +103,4 @@ This project is licensed under the MIT License – see the `LICENSE` file for de
 
 **Prince**  
 B.Tech CSE | Developer | AI & Software Enthusiast  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](http://github.com/princee01) | [LinkedIn](https://linkedin.com/in/yourprofile)
