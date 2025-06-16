@@ -103,4 +103,4 @@ This project is licensed under the MIT License – see the `LICENSE` file for de
 
 **Prince**  
 B.Tech CSE | Developer | AI & Software Enthusiast  
-[GitHub](http://github.com/princee01) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](http://github.com/princee01) | [LinkedIn](https://www.linkedin.com/in/prince-kumar99107/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
