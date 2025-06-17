@@ -58,6 +58,15 @@ AlgoAnalyzer/
 
 ---
 
+## Example(code to be tested)
+
+![Screenshot 2025-06-17 172207](https://github.com/user-attachments/assets/b2c3f634-e5a8-441b-bfa1-2f024a996f3f)
+
+## Output
+
+![Screenshot 2025-06-17 172222](https://github.com/user-attachments/assets/1e5d25dc-bcc4-4442-9f67-92de55f81c70)
+
+
 ## 🛠️ Ongoing Changes
 
 - Improving detection accuracy of nested loops and compound conditions  
