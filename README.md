@@ -60,7 +60,7 @@ AlgoAnalyzer/
 
 ## Example(code to be tested)
 
-![Screenshot 2025-06-17 172207](https://github.com/user-attachments/assets/b2c3f634-e5a8-441b-bfa1-2f024a996f3f)
+
 
 ## Output
 
